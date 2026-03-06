@@ -31,7 +31,7 @@ class AColors {
 
   // Button Colors
   static const Color buttonPrimary = Color(0xFF4b68ff);
-  static const Color buttonSecondary = Color(0xFFF6C757D);
+  static const Color buttonSecondary = Color(0xfff6c757d);
   static const Color buttonDisabled = Color(0xFFC4C4C4);
 
   // Border Colors

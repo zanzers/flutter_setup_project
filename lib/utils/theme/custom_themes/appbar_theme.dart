@@ -9,8 +9,8 @@ class AAppbarTheme{
     scrolledUnderElevation: 0,
     backgroundColor: Colors.transparent,
     surfaceTintColor: Colors.transparent,
-    iconTheme: const IconThemeData(color: Colors.black, size: 24),
-    titleTextStyle: const TextStyle(fontSize: 18, fontWeight: FontWeight.w600, color: Colors.black),
+    iconTheme: IconThemeData(color: Colors.black, size: 24),
+    titleTextStyle: TextStyle(fontSize: 18, fontWeight: FontWeight.w600, color: Colors.black),
   );
 
   static const darkAppbarTheme = AppBarTheme(
@@ -19,7 +19,7 @@ class AAppbarTheme{
     scrolledUnderElevation: 0,
     backgroundColor: Colors.transparent,
     surfaceTintColor: Colors.transparent,
-    iconTheme: const IconThemeData(color: Colors.black, size: 24),
-    titleTextStyle: const TextStyle(fontSize: 18, fontWeight: FontWeight.w600, color: Colors.white),
+    iconTheme: IconThemeData(color: Colors.black, size: 24),
+    titleTextStyle: TextStyle(fontSize: 18, fontWeight: FontWeight.w600, color: Colors.white),
   );
 }
