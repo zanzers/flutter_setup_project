@@ -1,6 +1,6 @@
 # flutter_setup
 
-A new Flutter project.
+Flutter Setup
 
 ## Getting Started
 
